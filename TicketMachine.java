@@ -12,7 +12,7 @@
 public class TicketMachine
 {
     // The price of a ticket from this machine.
-    private Integer price;
+    Integer price;
     // The amount of money entered by a customer so far.
     private Integer balance;
     // The total amount of money collected by this machine.
